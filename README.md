@@ -10,10 +10,10 @@ A Python + Streamlit app for practising English speaking with an AI by recording
 - Easily configurable choice of Whisper and Ollama models used by the app
 
 ## ⚙️ Requirements
-- Python 3.11+
+- Python 3.11 (tested)
 - Ollama installed and running locally
 - Whisper installed together with its system dependencies (e.g. ffmpeg)
-- installed libraries from requirements.txt 
+- installed libraries from requirements.txt
 
 ## 🧰 Usage
 ### Installing
